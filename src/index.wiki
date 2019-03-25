@@ -1,5 +1,7 @@
-%% vim: spell:spelllang=en_us:spellcapcheck=:relativenumber:
+%% vim: spell spelllang=en_us spellcapcheck= relativenumber:
 = Software Design =
+[[/software-design.apkg|Here]] is my [[https://apps.ankiweb.net|Anki]] deck that I'm using to prepare for the exam.
+
 - [[/software-abstraction-modeling#Software abstraction & modeling|Software abstraction & modeling]]
     - [[/software-abstraction-modeling#Software abstraction & modeling#Models|Models]]
 - [[/software-development-process#Software development process|Software development process]]
@@ -51,4 +53,6 @@
         - [[/sequence-diagrams#Sequence Diagrams#Combined fragments#Concurrency and order|Concurrency and order]]
         - [[/sequence-diagrams#Sequence Diagrams#Combined fragments#Filters and assertions|Filters and assertions]]
     - [[/sequence-diagrams#Sequence Diagrams#Further language elements|Further language elements]]
-
+- [[/philosophy-of-software-design#Philosophy of Software Design|Philosophy of Software Design]]
+    - [[/philosophy-of-software-design#Philosophy of Software Design#Summary of Design Principles|Summary of Design Principles]]
+    - [[/philosophy-of-software-design#Philosophy of Software Design#Summary of red flags|Summary of red flags]]
